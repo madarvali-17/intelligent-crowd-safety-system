@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Crowd Safety System",
+  "description": "Deep Learning-Based Intelligent Crowd Safety System Using Aerial Surveillance for Congestion Prediction and Emergency Response",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
